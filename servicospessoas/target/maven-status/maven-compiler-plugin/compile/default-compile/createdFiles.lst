@@ -1,0 +1,10 @@
+br\unibh\servicospessoas\servicos\ServicoPessoaFisicaRestJson.class
+br\unibh\servicospessoas\persistencia\DAO.class
+br\unibh\servicospessoas\persistencia\PessoaFisicaDAO.class
+br\unibh\servicospessoas\entidades\PessoaJuridica.class
+br\unibh\servicospessoas\entidades\Pessoa.class
+br\unibh\servicospessoas\persistencia\PessoaJuridicaDAO.class
+br\unibh\servicospessoas\Main.class
+br\unibh\servicospessoas\servicos\MyResource.class
+br\unibh\servicospessoas\persistencia\JDBCUtil.class
+br\unibh\servicospessoas\entidades\PessoaFisica.class
